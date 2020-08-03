@@ -1,5 +1,4 @@
-include: "/views/*.view.lkml"                # include all views in the views/ folder in this project
-
+include: "*.view.lkml"                # include all views in the views/ folder in this project
 
 explore: advertiser_events_config {
   extends: [advertiser_events_core]
