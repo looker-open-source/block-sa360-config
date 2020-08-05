@@ -3,11 +3,11 @@ project_name: "block-sa360-config"
 ################ Constants ################
 
 constant: SA_360_SCHEMA {
-  value: "SA360"
+  value: "input_schema_here"
   export: override_required
 }
 
 constant: ADVERTISER_ID {
-  value: "21700000000010391"
+  value: "input_advertiser_id"
   export: override_required
 }
